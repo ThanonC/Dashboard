@@ -1,6 +1,6 @@
 # Cloud
 ## About
-The Cloud was coded in TypeScript, it has an easy to use WebInterface and also an in build Database which you can turn on and off as well as an terminal to execute commands
-### WebInterface
-### Database
-### Terminal
+The Cloud was coded in TypeScript, it has an easy to use WebInterface and also an in build terminal to execute commands
+<details>
+  <summary>Cmd List</summary>
+</details>
