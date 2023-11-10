@@ -2,7 +2,7 @@
 ## About
 the dashboard was written in typescript using React
 <details>
-  <summery>Functions</summery>
+  <summary>Functions</summary>
   - Discord bot setup
   - Database configuration
   - Cloud connection
