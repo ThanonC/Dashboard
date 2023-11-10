@@ -1,6 +1,12 @@
-# Cloud
+# Dashboard
 ## About
-The Cloud was coded in TypeScript, it has an easy to use WebInterface and also an in build terminal to execute commands
+the dashboard was written in typescript using React
+<details>
+  <summery>Functions</summery>
+  - Discord bot setup
+  - Database configuration
+  - Cloud connection
+</details>
 <details>
   <summary>Cmd List</summary>
 </details>
