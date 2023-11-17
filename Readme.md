@@ -3,6 +3,7 @@
 ![GitHub closed issues](https://img.shields.io/github/issues-closed/ThanonC/Dashboard)
 ![GitHub repo size](https://img.shields.io/github/repo-size/ThanonC/Dashboard)
 ![Website](https://img.shields.io/website?up_message=online&up_color=green&down_message=offline&down_color=red&url=https%3A%2F%2Fwww.github.com&label=RestApi%20Status%20(currently%20ther%20is%20no))
+![GitHub contributors](https://img.shields.io/github/contributors/ThanonC/Dashboard)
 
 ## About
 The Dashboard is written in JavaScript
