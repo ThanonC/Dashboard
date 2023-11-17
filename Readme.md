@@ -8,11 +8,5 @@
 
 ## About
 The Dashboard is written in JavaScript
-<details>
-  <summary>features</summary>
-  - Discord Notice Message
-  - webhook integration to send things
-</details>
-
 ## RestApi
 In the config file is the field RestApi, since we are currently working on it you can leave this field empty or if you have one you can add it
