@@ -1,0 +1,7 @@
+{
+    "port":"",
+    "restApi":"",
+    "startupMsg":"starting up on port: `${config.port}`",
+    "webhook":"",
+    "token":""
+}
