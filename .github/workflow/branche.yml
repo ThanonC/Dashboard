@@ -1,0 +1,11 @@
+name: new branch in push
+on:
+  issues:
+    types:
+      - opened
+jobs:
+  comment:
+    runs-on: ubuntu-latest
+    steps:
+      - run:
+      env: GITHUB_TOKEN: ${{ secret}}
