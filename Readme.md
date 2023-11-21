@@ -7,6 +7,14 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/ThanonC/Dashboard)
 
 ## About
-The Dashboard is written in JavaScript
+The Dashboard is written in JavaScript using express, mjs, discord.js
 ## RestApi
 In the config file is the field RestApi, since we are currently working on it you can leave this field empty or if you have one you can add it
+## How to start
+`git clone `
+
+`npm i express discord.js mjs`
+
+`npm run src/index.mjs`
+
+the port is standardly on 3000, but you can change that in the config
